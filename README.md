@@ -4,7 +4,7 @@ Ejercicio Practico creación de un modelo de base de datos.
 
 ## tecnologias utilizadas
 
-para ello se utilizaro PostgreAQL
+PostgreAQL
 
 ### Participante
 Cristopher Joo Castillo
